@@ -6,4 +6,4 @@
 
 - [git hub repository for project](https://github.com/saldatecode/Password_Generator)
 
-- [password Generator](file:///C:/Users/salda/Desktop/projects/Weekly%20projects/Week%203/Password_Generator/index.html)
+- [password Generator](https://saldatecode.github.io/Password_Generator/)
